@@ -1,0 +1,4 @@
+signal,n,human_rate,r1_classifier_rate,r1_kappa,r1_band,r1_precision,r1_recall,r1_f1,r2_classifier_rate,r2_kappa,r2_band,r2_precision,r2_recall,r2_f1,delta_kappa,r1_tn,r1_fp,r1_fn,r1_tp,r2_tn,r2_fp,r2_fn,r2_tp
+Warmth markers,99,22.2%,33.3%,0.529,moderate,0.545,0.818,0.655,12.1%,0.581,moderate,0.917,0.5,0.647,0.052,62,15,4,18,76,1,11,11
+Disclosure escalation,99,13.1%,10.1%,0.46,moderate,0.6,0.462,0.522,7.1%,0.449,moderate,0.714,0.385,0.5,-0.011,82,4,7,6,84,2,8,5
+Return-visit language,99,6.1%,9.1%,0.353,fair,0.333,0.5,0.4,5.1%,0.519,moderate,0.6,0.5,0.545,0.166,87,6,3,3,91,2,3,3

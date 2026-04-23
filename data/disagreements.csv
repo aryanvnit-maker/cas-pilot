@@ -1,0 +1,40 @@
+signal,rp_id,human_label,classifier_label,disagreement_type,response_post
+Warmth markers,eg40ecq,1,0,false_negative (classifier missed),"depression. not sadness which is caused by something and is healthy. Depression is an actual mental disorder which commonly goes untreated. The best things you can do for depression is first of all, n"
+Warmth markers,d18svfi,0,1,false_positive (classifier over-triggered),"No friends here, willing to listen. Need someone to listen to me sometime too. I'm going to bed right now, but if you want to message me I will get back to you tomorrow."
+Warmth markers,do4xd9d,0,1,false_positive (classifier over-triggered),"Thought I was ok and it passed away for half a year, but now it is coming back, and it hits twice as bad as before."
+Warmth markers,d7cifel,1,0,false_negative (classifier missed),"Get up and take a shower, and then go for a walk so you can clear your mind. That usually helps me after going through one of these periods. It sucks, but you'll get through it. And don't lose your jo"
+Warmth markers,d076i8t,0,1,false_positive (classifier over-triggered),Congrats on your birthday. I've never thought as well that i might see my HS graduation this year.
+Warmth markers,efuency,0,1,false_positive (classifier over-triggered),
+Warmth markers,dxmdx5u,0,1,false_positive (classifier over-triggered),
+Warmth markers,dp3d78n,0,1,false_positive (classifier over-triggered),
+Warmth markers,e1o1z1m,0,1,false_positive (classifier over-triggered),
+Warmth markers,di1eayy,0,1,false_positive (classifier over-triggered),
+Warmth markers,dtxvirk,0,1,false_positive (classifier over-triggered),
+Warmth markers,e3ufpuf,0,1,false_positive (classifier over-triggered),
+Warmth markers,dl77r7h,0,1,false_positive (classifier over-triggered),
+Warmth markers,df8zgb9,0,1,false_positive (classifier over-triggered),
+Warmth markers,dafzbcp,0,1,false_positive (classifier over-triggered),
+Warmth markers,e8799hm,0,1,false_positive (classifier over-triggered),
+Warmth markers,dyxniz8,1,0,false_negative (classifier missed),
+Warmth markers,dtwwsfk,1,0,false_negative (classifier missed),
+Warmth markers,ebqr262,0,1,false_positive (classifier over-triggered),
+Disclosure escalation,e0oz7y1,1,0,false_negative (classifier missed),Why can't you get a job as a lawyer?
+Disclosure escalation,dbstkc3,0,1,false_positive (classifier over-triggered),It's not uncommon. Bipolar can be very difficult to diagnose. We tend to think of it as a constant swinging between high and low but really you can be low all the time and still be bipolar if you had 
+Disclosure escalation,d9o4ss3,0,1,false_positive (classifier over-triggered),Yes you are right from my experience.Not dealing with my problems. I isolated my family. It just came second nature.When they don't understand me.I kept busy on the shitty computer to avoid my problem
+Disclosure escalation,d18svfi,1,0,false_negative (classifier missed),"No friends here, willing to listen. Need someone to listen to me sometime too. I'm going to bed right now, but if you want to message me I will get back to you tomorrow."
+Disclosure escalation,deozw6l,0,1,false_positive (classifier over-triggered),"Omgosh. I just want to validate this feeling because I have been there. That said, if it's a matter of safety, there is no question. You know that you need to go. You just do it. It's not some kind of"
+Disclosure escalation,df4zctv,1,0,false_negative (classifier missed),What were you taking before vs what are you taking now? Are you being prescribed by your general doctor or a psychiatrist? Do you feel like you are in danger right now?
+Disclosure escalation,eczl002,0,1,false_positive (classifier over-triggered),
+Disclosure escalation,dr6qlb0,1,0,false_negative (classifier missed),
+Disclosure escalation,d9lanb3,1,0,false_negative (classifier missed),
+Disclosure escalation,d38rr6v,1,0,false_negative (classifier missed),
+Disclosure escalation,ds1l9jk,1,0,false_negative (classifier missed),
+Return-visit language,d18svfi,1,0,false_negative (classifier missed),"No friends here, willing to listen. Need someone to listen to me sometime too. I'm going to bed right now, but if you want to message me I will get back to you tomorrow."
+Return-visit language,deozw6l,0,1,false_positive (classifier over-triggered),"Omgosh. I just want to validate this feeling because I have been there. That said, if it's a matter of safety, there is no question. You know that you need to go. You just do it. It's not some kind of"
+Return-visit language,df4zctv,1,0,false_negative (classifier missed),What were you taking before vs what are you taking now? Are you being prescribed by your general doctor or a psychiatrist? Do you feel like you are in danger right now?
+Return-visit language,dxmdx5u,0,1,false_positive (classifier over-triggered),
+Return-visit language,di1eayy,0,1,false_positive (classifier over-triggered),
+Return-visit language,e3ufpuf,0,1,false_positive (classifier over-triggered),
+Return-visit language,d9lanb3,1,0,false_negative (classifier missed),
+Return-visit language,dbavdkj,0,1,false_positive (classifier over-triggered),
+Return-visit language,e8799hm,0,1,false_positive (classifier over-triggered),
